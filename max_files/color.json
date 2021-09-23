@@ -1,0 +1,55 @@
+{
+	"pattrstorage" : 	{
+		"name" : "color",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"color1_ambient_alpha" : [ 1.0 ],
+					"color1_ambient_blue" : [ 0.77 ],
+					"color1_ambient_green" : [ 0.18 ],
+					"color1_ambient_red" : [ 0.76 ],
+					"color1_diffuse_alpha" : [ 1.0 ],
+					"color1_diffuse_blue" : [ 1.0 ],
+					"color1_diffuse_green" : [ 0.45 ],
+					"color1_diffuse_red" : [ 0.91 ],
+					"color1_emission_alpha" : [ 1.0 ],
+					"color1_emission_blue" : [ 0.88 ],
+					"color1_emission_green" : [ 0.13 ],
+					"color1_emission_red" : [ 1.0 ],
+					"color1_specular_alpha" : [ 1.0 ],
+					"color1_specular_blue" : [ 1.0 ],
+					"color1_specular_green" : [ 0.58 ],
+					"color1_specular_red" : [ 0.93 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"color1_ambient_alpha" : [ 1.0 ],
+					"color1_ambient_blue" : [ 0.0 ],
+					"color1_ambient_green" : [ 0.0 ],
+					"color1_ambient_red" : [ 0.0 ],
+					"color1_diffuse_alpha" : [ 1.0 ],
+					"color1_diffuse_blue" : [ 0.75 ],
+					"color1_diffuse_green" : [ 1.0 ],
+					"color1_diffuse_red" : [ 0.09 ],
+					"color1_emission_alpha" : [ 1.0 ],
+					"color1_emission_blue" : [ 0.11 ],
+					"color1_emission_green" : [ 0.59 ],
+					"color1_emission_red" : [ 0.11 ],
+					"color1_specular_alpha" : [ 1.0 ],
+					"color1_specular_blue" : [ 0.5 ],
+					"color1_specular_green" : [ 0.5 ],
+					"color1_specular_red" : [ 0.5 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
